@@ -1,0 +1,628 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Download Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-14 20:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.1-beta2-54351\n"
+"X-Domain: simple-download-counter"
+
+#: inc/functions-admin.php:306
+msgid " file"
+msgstr ""
+
+#: simple-download-counter.php:216
+msgid " or higher, and has been deactivated! "
+msgstr ""
+
+#: inc/register-post-type.php:14
+msgid "Add New"
+msgstr ""
+
+#: inc/register-post-type.php:91
+msgid "Add New Category"
+msgstr ""
+
+#: inc/register-post-type.php:15
+msgid "Add New Download"
+msgstr ""
+
+#: inc/register-post-type.php:135
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/register-post-type.php:138
+msgid "Add or remove tags"
+msgstr ""
+
+#: inc/register-post-type.php:86 inc/functions-admin.php:140
+msgid "All Categories"
+msgstr ""
+
+#: inc/register-post-type.php:21
+msgid "All Downloads"
+msgstr ""
+
+#: inc/register-post-type.php:132
+msgid "All Tags"
+msgstr ""
+
+#: inc/settings-register.php:16
+msgid "Alphanumeric string for download URLs. Default value is recommended."
+msgstr ""
+
+#: inc/settings-reset.php:34
+msgid "and"
+msgstr ""
+
+#: inc/settings-reset.php:36
+msgid "Apply code"
+msgstr ""
+
+#: inc/settings-reset.php:36
+msgid "at checkout. Sale ends 12/21/24."
+msgstr ""
+
+#: inc/settings-reset.php:35
+msgid "books"
+msgstr ""
+
+#: inc/register-post-type.php:83 inc/register-post-type.php:93
+msgid "Categories"
+msgstr ""
+
+#: inc/register-post-type.php:84
+msgid "Category"
+msgstr ""
+
+#: inc/register-post-type.php:139
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: simple-download-counter.php:172
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr ""
+
+#: inc/resources-enqueue.php:51
+msgid "Confirm Reset"
+msgstr ""
+
+#: inc/resources-enqueue.php:29
+msgid "Copied!"
+msgstr ""
+
+#: inc/functions-admin.php:93
+msgid "Copy Permalink"
+msgstr ""
+
+#: inc/functions-admin.php:101
+msgid "Copy Shortcode"
+msgstr ""
+
+#: inc/functions-admin.php:25
+msgid "Count"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Counts the number of downloads for any file type. Display download counts "
+"using shortcodes."
+msgstr ""
+
+#: inc/register-post-type.php:114
+msgid "Default Download Category"
+msgstr ""
+
+#: inc/settings-reset.php:15
+msgid "Default options restored."
+msgstr ""
+
+#: inc/functions-admin.php:273
+msgid "Direct link to download file"
+msgstr ""
+
+#: inc/settings-reset.php:107
+msgid "Dismiss"
+msgstr ""
+
+#: inc/functions-admin.php:282
+msgid "docs"
+msgstr ""
+
+#: inc/settings-callbacks.php:167
+msgid "Donate via PayPal, credit card, or cryptocurrency"
+msgstr ""
+
+#: inc/register-post-type.php:11 inc/register-post-type.php:13 
+#: inc/functions-admin.php:250
+msgid "Download"
+msgstr ""
+
+#: inc/register-post-type.php:31
+msgid "Download Archives"
+msgstr ""
+
+#: inc/register-post-type.php:100
+msgid "Download Categories"
+msgstr ""
+
+#: inc/functions-admin.php:252
+msgid "Download Count"
+msgstr ""
+
+#: inc/functions-admin.php:276
+msgid "Download Count:"
+msgstr ""
+
+#: inc/functions-core.php:248 inc/functions-admin.php:473 
+#: inc/functions-admin.php:479
+msgid "Download Error"
+msgstr ""
+
+#: inc/functions-core.php:288
+msgid "Download hash does not match."
+msgstr ""
+
+#: inc/functions-core.php:274
+msgid "Download ID is undefined."
+msgstr ""
+
+#: inc/functions-admin.php:275
+msgid "Download ID:"
+msgstr ""
+
+#: inc/functions-core.php:296
+msgid "Download is not available."
+msgstr ""
+
+#: inc/settings-register.php:16
+msgid "Download Key"
+msgstr ""
+
+#: inc/functions-core.php:256
+msgid "Download key is undefined."
+msgstr ""
+
+#: inc/register-post-type.php:36
+msgid "Download list"
+msgstr ""
+
+#: inc/register-post-type.php:35
+msgid "Download list navigation"
+msgstr ""
+
+#: inc/functions-admin.php:254
+msgid "Download Notes"
+msgstr ""
+
+#: inc/functions-admin.php:395
+msgid "Download notes.."
+msgstr ""
+
+#: inc/register-post-type.php:150
+msgid "Download Tags"
+msgstr ""
+
+#: inc/functions-admin.php:182
+msgid "Download Title"
+msgstr ""
+
+#: inc/functions-admin.php:251 inc/functions-admin.php:320
+msgid "Download URL"
+msgstr ""
+
+#: inc/functions-admin.php:253
+msgid "Download Version"
+msgstr ""
+
+#: inc/functions-admin.php:372
+msgid "Download version"
+msgstr ""
+
+#: inc/functions-admin.php:277
+msgid "Download Version:"
+msgstr ""
+
+#: inc/register-post-type.php:10 inc/register-post-type.php:12 
+#: inc/register-post-type.php:43 inc/functions-shortcode.php:311
+msgid "Downloads"
+msgstr ""
+
+#: inc/functions-shortcode.php:96
+msgid "downloads"
+msgstr ""
+
+#: inc/register-post-type.php:17
+msgid "Edit"
+msgstr ""
+
+#: inc/register-post-type.php:89
+msgid "Edit Category"
+msgstr ""
+
+#: inc/register-post-type.php:18
+msgid "Edit Download"
+msgstr ""
+
+#: inc/register-post-type.php:133
+msgid "Edit Tag"
+msgstr ""
+
+#: inc/functions-admin.php:393
+msgid "Enter any notes about this download (all kept private)."
+msgstr ""
+
+#: inc/functions-admin.php:347
+msgid "Enter download count."
+msgstr ""
+
+#: inc/functions-admin.php:370
+msgid "Enter download version."
+msgstr ""
+
+#: inc/functions-admin.php:314
+msgid "Enter existing file"
+msgstr ""
+
+#: inc/functions-core.php:374
+msgid "Error: allow_url_fopen not enabled."
+msgstr ""
+
+#: inc/functions-admin.php:473
+msgid "Error: Invalid Download URL"
+msgstr ""
+
+#: inc/settings-reset.php:31
+msgid "Fall Sale!"
+msgstr ""
+
+#: inc/register-post-type.php:27
+msgid "Featured Image"
+msgstr ""
+
+#: inc/functions-admin.php:636 inc/functions-admin.php:649 
+#: inc/functions-admin.php:660
+msgid "File does not exist. Error code: "
+msgstr ""
+
+#: inc/functions-admin.php:612
+msgid "File does not exist. Error code: 10"
+msgstr ""
+
+#: inc/register-post-type.php:44
+msgid "File Downloads"
+msgstr ""
+
+#: inc/functions-core.php:312
+msgid "File path is not defined."
+msgstr ""
+
+#: inc/functions-core.php:320
+msgid "File type is not defined."
+msgstr ""
+
+#: inc/functions-core.php:304
+msgid "File URL is not defined."
+msgstr ""
+
+#: inc/register-post-type.php:34
+msgid "Filter Download list"
+msgstr ""
+
+#: inc/functions-admin.php:283
+msgid "for shortcode options"
+msgstr ""
+
+#: inc/settings-callbacks.php:8
+msgid "for using Simple Download Counter (SDC). Need help?"
+msgstr ""
+
+#: inc/functions-core.php:138
+msgid "Go to homepage &raquo;"
+msgstr ""
+
+#: inc/settings-callbacks.php:158
+msgid ""
+"Help keep Simple Download Counter going strong! A huge THANK YOU for your "
+"support!"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://perishablepress.com/simple-download-counter/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://plugin-planet.com/"
+msgstr ""
+
+#: inc/settings-callbacks.php:12
+msgid "If you&rsquo;re getting 404 errors when trying to download, here is a"
+msgstr ""
+
+#: inc/register-post-type.php:32
+msgid "Insert into Download"
+msgstr ""
+
+#: inc/functions-shortcode.php:24 inc/functions-shortcode.php:107 
+#: inc/functions-shortcode.php:317
+msgid "Invalid Download ID"
+msgstr ""
+
+#: inc/functions-shortcode.php:171
+msgid "Invalid Download Key"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jeff Starr"
+msgstr ""
+
+#: simple-download-counter.php:191
+msgid "Like this plugin? Give it a"
+msgstr ""
+
+#: inc/functions-admin.php:483
+msgid "local"
+msgstr ""
+
+#: inc/functions-admin.php:24
+msgid "Location"
+msgstr ""
+
+#: inc/register-post-type.php:92
+msgid "New Category Name"
+msgstr ""
+
+#: inc/register-post-type.php:16
+msgid "New Download"
+msgstr ""
+
+#: inc/register-post-type.php:136
+msgid "New Tag Name"
+msgstr ""
+
+#: inc/settings-reset.php:19
+msgid "No changes made to options."
+msgstr ""
+
+#: inc/register-post-type.php:26
+msgid "No Downloads found in Trash."
+msgstr ""
+
+#: inc/register-post-type.php:25
+msgid "No Downloads found."
+msgstr ""
+
+#: inc/register-post-type.php:140
+msgid "No tags found."
+msgstr ""
+
+#: inc/resources-enqueue.php:54
+msgid "No, abort mission."
+msgstr ""
+
+#: inc/settings-callbacks.php:12
+msgid "Note:"
+msgstr ""
+
+#: inc/functions-admin.php:316
+msgid "or click button to upload new file."
+msgstr ""
+
+#: inc/register-post-type.php:87
+msgid "Parent Category"
+msgstr ""
+
+#: inc/register-post-type.php:88
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/register-post-type.php:23
+msgid "Parent Download"
+msgstr ""
+
+#: inc/register-post-type.php:24
+msgid "Parent Downloads:"
+msgstr ""
+
+#: inc/functions-admin.php:22 inc/functions-admin.php:273
+msgid "Permalink"
+msgstr ""
+
+#: simple-download-counter.php:217
+msgid "Please return to the"
+msgstr ""
+
+#: inc/settings-register.php:14
+msgid "Plugin Settings"
+msgstr ""
+
+#: inc/register-post-type.php:131
+msgid "Popular Tags"
+msgstr ""
+
+#: inc/settings-reset.php:33
+msgid "Pro WordPress plugins"
+msgstr ""
+
+#: inc/settings-callbacks.php:14
+msgid "quick solution &raquo;"
+msgstr ""
+
+#: inc/settings-register.php:20
+msgid "Rate Plugin"
+msgstr ""
+
+#: simple-download-counter.php:173
+msgid "Rate this plugin"
+msgstr ""
+
+#: inc/functions-admin.php:483
+msgid "remote"
+msgstr ""
+
+#: inc/register-post-type.php:29
+msgid "Remove Featured Image"
+msgstr ""
+
+#: simple-download-counter.php:215
+msgid "requires WordPress "
+msgstr ""
+
+#: inc/settings-register.php:18
+msgid "Reset Options"
+msgstr ""
+
+#: inc/resources-enqueue.php:52
+msgid "Restore default options?"
+msgstr ""
+
+#: inc/settings-register.php:18 inc/settings-callbacks.php:145
+msgid "Restore default plugin options"
+msgstr ""
+
+#: inc/functions-core.php:148
+msgid "Return to previous page &#10550;"
+msgstr ""
+
+#: inc/register-post-type.php:85
+msgid "Search Categories"
+msgstr ""
+
+#: inc/register-post-type.php:22
+msgid "Search Downloads"
+msgstr ""
+
+#: inc/register-post-type.php:130
+msgid "Search Tags"
+msgstr ""
+
+#: inc/register-post-type.php:137
+msgid "Separate tags with commas"
+msgstr ""
+
+#: inc/register-post-type.php:28
+msgid "Set Featured Image"
+msgstr ""
+
+#: simple-download-counter.php:157 inc/settings-display.php:13 
+#: inc/settings-display.php:14
+msgid "Settings"
+msgstr ""
+
+#: inc/functions-admin.php:23
+msgid "Shortcode"
+msgstr ""
+
+#: inc/settings-register.php:22
+msgid "Show Support"
+msgstr ""
+
+#: inc/settings-register.php:20
+msgid "Show support with a 5-star rating &raquo;"
+msgstr ""
+
+#: inc/settings-register.php:22
+msgid "Show support with a small donation &raquo;"
+msgstr ""
+
+#: inc/settings-callbacks.php:168
+msgid "Show support with a small donation&nbsp;&raquo;"
+msgstr ""
+
+#. Name of the plugin
+#: simple-download-counter.php:113
+msgid "Simple Download Counter"
+msgstr ""
+
+#: simple-download-counter.php:268 simple-download-counter.php:274
+msgid "Sorry, pal!"
+msgstr ""
+
+#: inc/register-post-type.php:129
+msgid "Tag"
+msgstr ""
+
+#: inc/register-post-type.php:128 inc/register-post-type.php:141
+msgid "Tags"
+msgstr ""
+
+#: inc/settings-reset.php:32
+msgid "Take 25% OFF any of our"
+msgstr ""
+
+#: inc/settings-callbacks.php:8
+msgid "Thanks"
+msgstr ""
+
+#: simple-download-counter.php:218
+msgid "to upgrade WordPress and try again."
+msgstr ""
+
+#: inc/register-post-type.php:114
+msgid "Uncategorized"
+msgstr ""
+
+#: inc/functions-admin.php:315
+msgid "Uniform Resource Locator"
+msgstr ""
+
+#: inc/register-post-type.php:90
+msgid "Update Category"
+msgstr ""
+
+#: inc/register-post-type.php:134
+msgid "Update Tag"
+msgstr ""
+
+#: inc/functions-admin.php:324
+msgid "Upload File"
+msgstr ""
+
+#: inc/register-post-type.php:33
+msgid "Uploaded to this Download"
+msgstr ""
+
+#: inc/functions-admin.php:315
+msgid "URL"
+msgstr ""
+
+#: inc/register-post-type.php:30
+msgid "Use as Featured Image"
+msgstr ""
+
+#: inc/functions-admin.php:27
+msgid "Version"
+msgstr ""
+
+#: inc/register-post-type.php:19 inc/register-post-type.php:20
+msgid "View Download"
+msgstr ""
+
+#: inc/functions-admin.php:281
+msgid "Visit the"
+msgstr ""
+
+#: inc/settings-callbacks.php:10
+msgid "Visit the plugin docs &raquo;"
+msgstr ""
+
+#: simple-download-counter.php:218
+msgid "WP Admin Area"
+msgstr ""
+
+#: inc/resources-enqueue.php:53
+msgid "Yes, make it so."
+msgstr ""
+
+#: simple-download-counter.php:195
+msgid "★★★★★ rating&nbsp;&raquo;"
+msgstr ""
